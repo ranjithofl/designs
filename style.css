@@ -1,8 +1,5 @@
 /*-------------------------------------------------------------------------------------
-Theme Name: Snowlake
-Theme URI:	http://themes.iki-bir.com/snowlake/start.html
-Version:	1.0.1
-Author:		elemis
+
 01. RESET
 02. GENERAL
 03. NAVBAR
@@ -6806,4 +6803,8 @@ footer.inverse-text address {
 }
 .c_8{
     background-color: #feeeff;
+}
+img {
+    width: 100% !important;
+    height: 100% !important;
 }
